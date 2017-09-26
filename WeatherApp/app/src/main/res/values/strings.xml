@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">WeatherApp</string>
-    <string name="temperature">temperature</string>
-    <string name="condition">condition</string>
-    <string name="location">location</string>
-    <string name="locationName">locationName</string>
-</resources>
